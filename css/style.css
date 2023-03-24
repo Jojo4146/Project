@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    font-family: 'Roboto', sans-serif;
+    background-color: #020003;
+}
+
+.logo {
+    color: rgb(252, 249, 249);
+    letter-spacing: 5px;
+    font-size: 15px;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+
+.nav-links a {
+    color: rgb(252, 249, 249);
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+body {
+    background-color: rgb(159, 170, 224);
+}
+
+.legend {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    align-items: center;
+    font-weight: bold;
+}
+
+h1, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 15px 10px 10px 15px;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 15px 10px 10px 15px;
+    align-items: center;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding: 5px 10px 10px 50px;
+}
+
+button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: darkturquoise;
+}
+
+button input:hover {
+    background-color: rgb(13, 158, 231);
+}
+
+.main {
+    font-size: 20px;
+    padding: 15px 100px 15px 100px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+}
+
+.page-intro {
+    text-align: center;
+}
+
+.link-login {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 3px;
+}
+
+.sign-in {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 15px 100px 15px 100px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0 100px 0 100px;
+}
+
+.contact-page {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+}
