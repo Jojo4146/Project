@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="720c91af-c858-41f0-ae68-71477a5a8c38" name="Changes" comment="" />
+    <list default="true" id="720c91af-c858-41f0-ae68-71477a5a8c38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2d6038b4-225f-4f13-b092-170bd5909b3d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2d6038b4-225f-4f13-b092-170bd5909b3d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses.php" beforeDir="false" afterPath="$PROJECT_DIR$/courses.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,6 +40,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="2LAg30oK6mToL4ZCFGz2SA7YW2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,13 +51,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Applications/MAMP/htdocs/Project&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -127,6 +139,13 @@
       <workItem from="1679666142826" duration="1461000" />
       <workItem from="1679678921629" duration="7963000" />
       <workItem from="1679697265185" duration="852000" />
+      <workItem from="1679698750247" duration="328000" />
+      <workItem from="1679699081471" duration="22000" />
+      <workItem from="1680055424916" duration="12000" />
+      <workItem from="1680617995506" duration="587000" />
+      <workItem from="1680618595626" duration="22000" />
+      <workItem from="1680618622820" duration="4020000" />
+      <workItem from="1680667445722" duration="2242000" />
     </task>
     <servers />
   </component>
